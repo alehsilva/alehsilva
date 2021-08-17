@@ -2,10 +2,10 @@ Olá, meu nome é Alexandre Ramos e atualmente sou programador front-end!
 
 
 <a href="#">
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=alehsilva&theme=radical&show_icons=true&hide=contribs,prs&count_private=true" />
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=alehsilva&theme=dark&show_icons=true&hide=contribs,prs&count_private=true" />
 </a>
 <a href="#">
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehsilva&theme=radical&layout=compact" />
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehsilva&theme=dark&layout=compact" />
 </a>
 
 
